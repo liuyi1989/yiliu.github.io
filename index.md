@@ -17,9 +17,10 @@ Journal:
 9. Qiang Zhang, Yi Liu, Siyang Zhu, Jungong Han, Salient object detection based on super-pixel clustering and unified low-rank representation, Computer Vision and Image Understanding (CVIU), 2017, 161: 51-64.
 10. 11.	Nianchang Huang, Yi Liu, Qiang Zhang, Jungong Han, Joint cross-modal and unimodal features for RGB-D salient object detection, IEEE Transactions on Multimedia (T-MM), 2020, 23: 2428-2440.
 11. Qiang Zhang, Zhen Huo, Yi Liu, Yunhui Pan, Caifeng Shan, Jungong Han, Salient object detection employing a local tree-structured low-rank representation and foreground consistency, Pattern Recognition (PR), 2019, 92: 119-134.
+
 Conference:
 1. Yi Liu, Qiang Zhang, Dingwen Zhang, Jungong Han, Employing Deep Part-Object Relationships for Salient Object Detection, IEEE International Conference on Computer Vision (ICCV), 1232-1241, 2019.
 
-# Service
+# Patten
 ## Header 2
 ### Header 3
