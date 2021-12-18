@@ -15,7 +15,7 @@ Journal:
 7. Qiang Zhang, Mingxing Duanmu, Yongjiang Luo, Yi Liu*, and Jungong Han*, Engaging part-whole hierarchies and contrast cues for salient object detection, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2021， DOI 10.1109/TCSVT.2021.3104932.
 8. Qiang Zhang, Yi Liu, Rick. S. Blum, Jungong Han, Dacheng Tao, Sparse representation based multi-sensor image fusion for multi-focus and multi-modality images: A review, Information Fusion, 2018, 40: 57-75.
 9. Qiang Zhang, Yi Liu, Siyang Zhu, Jungong Han, Salient object detection based on super-pixel clustering and unified low-rank representation, Computer Vision and Image Understanding (CVIU), 2017, 161: 51-64.
-10. 11.	Nianchang Huang, Yi Liu, Qiang Zhang, Jungong Han, Joint cross-modal and unimodal features for RGB-D salient object detection, IEEE Transactions on Multimedia (T-MM), 2020, 23: 2428-2440.
+10. Nianchang Huang, Yi Liu, Qiang Zhang, Jungong Han, Joint cross-modal and unimodal features for RGB-D salient object detection, IEEE Transactions on Multimedia (T-MM), 2020, 23: 2428-2440.
 11. Qiang Zhang, Zhen Huo, Yi Liu, Yunhui Pan, Caifeng Shan, Jungong Han, Salient object detection employing a local tree-structured low-rank representation and foreground consistency, Pattern Recognition (PR), 2019, 92: 119-134.
 
 Conference:
