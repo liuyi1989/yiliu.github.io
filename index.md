@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Personal Pages of Yi Liu 
 # Personal Information
 # Publication
 # Service
