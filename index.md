@@ -1,6 +1,7 @@
 ## Welcome to the Personal Pages of Yi Liu 
 # Personal Information
 I am currently working at Changzhou University, Changzhou, China. I recieved my Ph. D. degree from Xidian University in December 2019. From September 2018 to September 2019, I was funded by CSC as a visiting student in Lancaster University and Warick University.
+常州大学，讲师，硕导，2019年于西安电子科技大学获博士学位，2018年9月-2019年9月受国家CSC资助于英国兰卡斯特大学联合培养。
 
 # Research Interest
 My current research interest convers computer vision and machine learning, including salient object detection, camoufalged object detection, capsule network, 3D poind cloud, etc.
@@ -33,6 +34,24 @@ Conference:
 
 1. Yi Liu, Qiang Zhang, Dingwen Zhang, Jungong Han, Employing Deep Part-Object Relationships for Salient Object Detection, IEEE International Conference on Computer Vision (ICCV), 1232-1241, 2019.
 
-# Patten
-## Header 2
+# Grant
+1. 国家自然科学基金青年科学项目，基于轻量化胶囊网络的图像显著目标检测，64211341，主持，2021.01.01-2023.12.31
+
+2. 江苏省自然科学基金面上项目，部件-整体关系启发的统一视觉注意目标检测研究，主持，2022.07.01-2025.06.30
+
+
+
+1. 张强，刘毅，关永强，霍臻，王龙，基于鲁棒稀疏表示与拉普拉斯正则项的显著目标检测方法，专利号：ZL201710419857.0，授权日期：2019.08.06
+
+2. 张强，刘毅，姚琳，韩军功，王龙，基于细化空间一致性二阶段图的显著目标检测方法，授权日期：2021.05.04
+
+3. 刘毅，顾佳楠，徐守坤，基于解缠胶囊路由的部分-目标关系显著目标检测方法，申请日期：2022.05.13
+
+# Award
+1. 2016年度“中国电子科技集团公司-西安电子科技大学协同创新奖学金”一等奖（学院排名第一），2018年
+
+2. 博士研究生国家奖学金，2017年，
+
+3. 西安电子科技大学优秀研究生，2017年
+
 ### Header 3
