@@ -7,7 +7,7 @@ My current research interest convers computer vision and machine learning, inclu
 # Publication
 Journal:
 
-<img src="https://github.com/liuyi1989/yiliu.github.io/blob/master/fig/framework.jpg" width="180" height="105">1. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Part-object relational visual saliency, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021, DOI 10.1109/TPAMI.2021.3053577.
+1. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Part-object relational visual saliency, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021, DOI 10.1109/TPAMI.2021.3053577.
 
 2. Yi Liu, Jungong Han, Qiang Zhang, Caifeng Shan, Deep Salient Object Detection with Contextual Information Guidance, IEEE Transactions on Image Processing (T-IP), 2020, 29: 360-374.
 
