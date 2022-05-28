@@ -39,9 +39,10 @@ Conference:
 
 2. 江苏省自然科学基金面上项目，部件-整体关系启发的统一视觉注意目标检测研究，主持，2022.07.01-2025.06.30
 
+# Patent
+1. Qiang Zhang, Yi Liu, Yongqiang Guan, Zhen Huo, Long Wang, Salient object detection by employing robust sparse representation and Laplacian Regularization, ZL201710419857.0, China, 2019.
 
-
-1. 张强，刘毅，关永强，霍臻，王龙，基于鲁棒稀疏表示与拉普拉斯正则项的显著目标检测方法，专利号：ZL201710419857.0，授权日期：2019.08.06
+张强，刘毅，关永强，霍臻，王龙，基于鲁棒稀疏表示与拉普拉斯正则项的显著目标检测方法，专利号：ZL201710419857.0，授权日期：2019.08.06
 
 2. 张强，刘毅，姚琳，韩军功，王龙，基于细化空间一致性二阶段图的显著目标检测方法，授权日期：2021.05.04
 
