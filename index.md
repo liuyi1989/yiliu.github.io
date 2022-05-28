@@ -9,9 +9,9 @@ My current research interest convers computer vision and machine learning, inclu
 Journal:
 
 2022:
-1. Yang Yang, Qi Qin, Yongjiang Luo, Yi Liu*, Qiang Zhang*, and Jungong Han, Bi-directional progressive guidance network for RGB-D salient object detection, IEEE Transactions on Circuits and Systems for Video Technology, DOI: 10.1109/TCSVT.2022.3144852, 2022.
+1. Yang Yang, Qi Qin, Yongjiang Luo, Yi Liu*, Qiang Zhang*, and Jungong Han, Bi-directional progressive guidance network for RGB-D salient object detection, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), DOI: 10.1109/TCSVT.2022.3144852, 2022.
 
-2. Qiang Zhang, Mingxing Duanmu, Yongjiang Luo, Yi Liu*, and Jungong Han*, Engaging part-whole hierarchies and contrast cues for salient object detection, IEEE Transactions on Circuits and Systems for Video Technology,  DOI: 10.1109/TCSVT.2021.3104932, 2021.
+2. Qiang Zhang, Mingxing Duanmu, Yongjiang Luo, Yi Liu*, and Jungong Han*, Engaging part-whole hierarchies and contrast cues for salient object detection, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT),  DOI: 10.1109/TCSVT.2021.3104932, 2021.
 
 2021-
 1. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Part-object relational visual saliency, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021, DOI 10.1109/TPAMI.2021.3053577. <a href="https://github.com/liuyi1989/TSPORTNet">Code and Result</a>
