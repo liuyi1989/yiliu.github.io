@@ -34,18 +34,12 @@ Conference:
 
 1. Yi Liu, Qiang Zhang, Dingwen Zhang, Jungong Han, Employing Deep Part-Object Relationships for Salient Object Detection, IEEE International Conference on Computer Vision (ICCV), 1232-1241, 2019.
 
-# Grant
-1. Principle Investigator, National Nature Science Foundation of China, Image Salient Object Detection based on the Lightweight Capsule Network, 62001341, Jan 2021-Dec 2023.
-
-2. Principle Investigator, Nature Science Foundation of Jiangsu Province, Part-Whole Relationships Inspired Unified Visual Attention Object Detection, Jul 2022-Jun 2025.
-
+# Grants
 1. 国家自然科学基金青年科学项目，基于轻量化胶囊网络的图像显著目标检测，64211341，主持，2021.01.01-2023.12.31
 
 2. 江苏省自然科学基金面上项目，部件-整体关系启发的统一视觉注意目标检测研究，主持，2022.07.01-2025.06.30
 
 # Patent
-1. Qiang Zhang, Yi Liu, Yongqiang Guan, Zhen Huo, Long Wang, Salient object detection by employing robust sparse representation and Laplacian Regularization, ZL201710419857.0, China, 2019.
-
 1. 张强，刘毅，关永强，霍臻，王龙，基于鲁棒稀疏表示与拉普拉斯正则项的显著目标检测方法，专利号：ZL201710419857.0，授权日期：2019.08.06
 
 2. 张强，刘毅，姚琳，韩军功，王龙，基于细化空间一致性二阶段图的显著目标检测方法，授权日期：2021.05.04
@@ -53,12 +47,6 @@ Conference:
 3. 刘毅，顾佳楠，徐守坤，基于解缠胶囊路由的部分-目标关系显著目标检测方法，申请日期：2022.05.13
 
 # Award
-1. First Prize Scholarship for Collaborative Innovation Scholarship of China, Electronics Technology Group Corporation and Xidian University, 2018
-
-2. Excellent Doctoral Dissertation Funding Award, Xidian University, 2018
-
-3. Excellent Postgraduate, Xidian University, 2017
-
 1. 2016年度“中国电子科技集团公司-西安电子科技大学协同创新奖学金”一等奖（学院排名第一），2018年
 
 2. 博士研究生国家奖学金，2017年，
