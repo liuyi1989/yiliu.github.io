@@ -1,6 +1,7 @@
 ## Welcome to the Personal Pages of Yi Liu 
 # Personal Information
 I am currently working at Changzhou University, Changzhou, China. I recieved my Ph. D. degree from Xidian University in December 2019. From September 2018 to September 2019, I was funded by CSC as a visiting student in Lancaster University and Warick University.
+
 常州大学，讲师，硕导，2019年于西安电子科技大学获博士学位，2018年9月-2019年9月受国家CSC资助于英国兰卡斯特大学联合培养。
 
 # Research Interest
@@ -42,13 +43,19 @@ Conference:
 # Patent
 1. Qiang Zhang, Yi Liu, Yongqiang Guan, Zhen Huo, Long Wang, Salient object detection by employing robust sparse representation and Laplacian Regularization, ZL201710419857.0, China, 2019.
 
-张强，刘毅，关永强，霍臻，王龙，基于鲁棒稀疏表示与拉普拉斯正则项的显著目标检测方法，专利号：ZL201710419857.0，授权日期：2019.08.06
+1. 张强，刘毅，关永强，霍臻，王龙，基于鲁棒稀疏表示与拉普拉斯正则项的显著目标检测方法，专利号：ZL201710419857.0，授权日期：2019.08.06
 
 2. 张强，刘毅，姚琳，韩军功，王龙，基于细化空间一致性二阶段图的显著目标检测方法，授权日期：2021.05.04
 
 3. 刘毅，顾佳楠，徐守坤，基于解缠胶囊路由的部分-目标关系显著目标检测方法，申请日期：2022.05.13
 
 # Award
+1. First Prize Scholarship for Collaborative Innovation Scholarship of China, Electronics Technology Group Corporation and Xidian University, 2018
+
+2. Excellent Doctoral Dissertation Funding Award, Xidian University, 2018
+
+3. Excellent Postgraduate, Xidian University, 2017
+
 1. 2016年度“中国电子科技集团公司-西安电子科技大学协同创新奖学金”一等奖（学院排名第一），2018年
 
 2. 博士研究生国家奖学金，2017年，
