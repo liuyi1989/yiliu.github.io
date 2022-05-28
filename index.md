@@ -16,7 +16,7 @@ Journal:
 2021-
 1. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Part-object relational visual saliency, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021, DOI 10.1109/TPAMI.2021.3053577. <a href="https://github.com/liuyi1989/TSPORTNet">Code and Result</a>
 
-2. Yi Liu, Jungong Han, Qiang Zhang, Caifeng Shan, Deep Salient Object Detection with Contextual Information Guidance, IEEE Transactions on Image Processing (T-IP), 2020, 29: 360-374.<a href=">https://drive.google.com/file/d/19af_nVr-U-xwqdoyeP4WhEGkE0j8et47/view?usp=sharing">Result</a
+2. Yi Liu, Jungong Han, Qiang Zhang, Caifeng Shan, Deep Salient Object Detection with Contextual Information Guidance, IEEE Transactions on Image Processing (T-IP), 2020, 29: 360-374. <a href="https://drive.google.com/file/d/19af_nVr-U-xwqdoyeP4WhEGkE0j8et47/view?usp=sharing">Code and Result</a>
 
 3. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Integrating part-object relationship and contrast for camouflaged object detection, 2021, IEEE Transactions on Information Forensics and Security (T-IFS), 2021, 16: 5154-5166. <a href="https://github.com/liuyi1989/POCINet">Code and Result</a>
 
