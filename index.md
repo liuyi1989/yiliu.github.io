@@ -20,7 +20,7 @@ Journal:
 
 3. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Integrating part-object relationship and contrast for camouflaged object detection, 2021, IEEE Transactions on Information Forensics and Security (T-IFS), 2021, 16: 5154-5166. <a href="https://github.com/liuyi1989/POCINet">Code and Result</a>
 
-4. Yi Liu, Jungong Han, Qiang Zhang, Long Wang, Salient object detection via two-stage graphs, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2019, 29(4): 1023-1037. <a href="https://drive.google.com/file/d/19JQf8rcwbsIihU_gwFpjDXFJkFLxgMbI/view?usp=sharing">Code</a> <a href="https://drive.google.com/file/d/1cJrNpFP7EVFVikZgnJCyFTTsK-m-MB4m/view?usp=sharing">Code</a>
+4. Yi Liu, Jungong Han, Qiang Zhang, Long Wang, Salient object detection via two-stage graphs, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2019, 29(4): 1023-1037. <a href="https://drive.google.com/file/d/19JQf8rcwbsIihU_gwFpjDXFJkFLxgMbI/view?usp=sharing">Code</a> <a href="https://drive.google.com/file/d/1cJrNpFP7EVFVikZgnJCyFTTsK-m-MB4m/view?usp=sharing">Result</a>
 
 5. Yi Liu, Qiang Zhang, Jungong Han, Long Wang, Salient object detection employing robust sparse representation and local consistency, Image and Vision Computing (IVC), 2018, 69: 155-167.  <a href="https://drive.google.com/file/d/13_0ZV0rfnUEp12hGYpxy6wy_zJM8xlyD/view?usp=sharing">Result</a>
 
