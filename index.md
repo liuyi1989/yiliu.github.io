@@ -1,4 +1,3 @@
-## Welcome to the Personal Pages of Yi Liu 
 # Personal Information
 I am currently working at Changzhou University, Changzhou, China. I recieved my Ph. D. degree from Xidian University in December 2019. From September 2018 to September 2019, I was funded by CSC as a visiting student in Lancaster University and Warick University.
 
@@ -66,4 +65,5 @@ Conference:
 
 3. 西安电子科技大学优秀研究生，2017年
 
-### Header 3
+# Activity
+Reviewer of IEEE T-IP, IEEE T-CSVT, ACCV, etc.
