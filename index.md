@@ -6,7 +6,7 @@ I am currently working at Changzhou University, Changzhou, China. I recieved my 
 
 # Research Interest
 My current research interest convers computer vision and machine learning, including salient object detection, camoufalged object detection, capsule network, 3D poind cloud, etc.
-# Publication
+# Publication ()
 Journal:
 
 1. Yi Liu, Dingwen Zhang, Qiang Zhang, Jungong Han, Part-object relational visual saliency, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021, DOI 10.1109/TPAMI.2021.3053577.
@@ -36,6 +36,10 @@ Conference:
 1. Yi Liu, Qiang Zhang, Dingwen Zhang, Jungong Han, Employing Deep Part-Object Relationships for Salient Object Detection, IEEE International Conference on Computer Vision (ICCV), 1232-1241, 2019.
 
 # Grant
+1. Principle Investigator, National Nature Science Foundation of China, Image Salient Object Detection based on the Lightweight Capsule Network, 62001341, Jan 2021-Dec 2023.
+
+2. Principle Investigator, Nature Science Foundation of Jiangsu Province, Part-Whole Relationships Inspired Unified Visual Attention Object Detection, Jul 2022-Jun 2025.
+
 1. 国家自然科学基金青年科学项目，基于轻量化胶囊网络的图像显著目标检测，64211341，主持，2021.01.01-2023.12.31
 
 2. 江苏省自然科学基金面上项目，部件-整体关系启发的统一视觉注意目标检测研究，主持，2022.07.01-2025.06.30
